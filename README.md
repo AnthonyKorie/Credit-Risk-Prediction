@@ -35,5 +35,5 @@ This project aims to minimize the approval of bad-risk loans by:
 * **Extended Analysis**: Include additional data sources and variables for a more comprehensive understanding of credit risk factors.
 
 ### Repository Contents
-* [**Script**](https://github.com/fitria-dwi/Credit-Risk-Prediction/blob/main/Credit%20Risk%20Prediction.ipynb): Python scripts for data preprocessing, cleaning, and model training.
-* [**Report Deck**](https://github.com/fitria-dwi/Credit-Risk-Prediction/blob/main/Credit%20Risk%20Prediction%20Presentation.pdf): Detailed reports on findings, including insights and model performance metrics.
+* [**Script**](https://github.com/AnthonyKorie/Credit-Risk-Prediction/blob/main/Credit%20Risk%20Prediction.ipynb): Python scripts for data preprocessing, cleaning, and model training.
+* [**Report Deck**](https://github.com/AnthonyKorie/Credit-Risk-Prediction/blob/main/Credit%20Risk%20Prediction%20Presentation.pdf): Detailed reports on findings, including insights and model performance metrics.
